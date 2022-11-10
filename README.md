@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on `iOS`
 - 🌱 I’m currently learning `Unity` `Cocos`
+- 🌱 I’m currently learning `Java` `SpringBoot` `Android`
 
 # Stargazers over time
 
