@@ -10,8 +10,7 @@
 - 🍀 I’m currently learning `shell`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guojunliu&layout=compact)](https://github.com/muwoo/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=guojunliu&&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=guojunliu&&row=2&column=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=guojunliu&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
 
 ### Stargazers over time
