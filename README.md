@@ -9,11 +9,12 @@
 - 🍀 I’m currently learning `Android`
 - 🍀 I’m currently learning `shell`
 
-<br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=guojunliu&count_private&show_icons=true&theme=radical&bg_color=DEG,DD5744,834687&title_color=ffffff&text_color=ffffff)](https://github.com/guojunliu)
-[![trophy](https://github-profile-trophy.vercel.app/?username=guojunliu&column=3&row=2&margin-w=15)](https://github.com/guojunliu)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guojunliu&count_private&show_icons=true&theme=radical&bg_color=DEG,DD5744,834687&title_color=ffffff&text_color=ffffff" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=guojunliu&column=3&row=2&margin-w=15" />
+</a>
 
 
 ### Stargazers over time
