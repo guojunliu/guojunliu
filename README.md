@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojunliu&layout=compact" />
+<img align="right" src="https://github-profile-trophy.vercel.app/?username=guojunliu&column=3&row=2&margin-w=15" />
 
 
 
@@ -19,7 +19,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guojunliu&count_private&show_icons=true&theme=radical&bg_color=DEG,DD5744,834687&title_color=ffffff&text_color=ffffff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=guojunliu&column=3&row=2&margin-w=15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojunliu&layout=compact" />
 </a>
 
  <!--
