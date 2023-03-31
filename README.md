@@ -15,11 +15,12 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guojunliu&count_private&show_icons=true&theme=radical&bg_color=DEG,DD5744,834687&title_color=ffffff&text_color=ffffff" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guojunliu&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=guojunliu&count_private&show_icons=true&theme=radical&bg_color=DEG,DD5744,834687&title_color=ffffff&text_color=ffffff" />
 </a>
 
  <!--
