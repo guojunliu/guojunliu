@@ -13,7 +13,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=guojunliu&count_private&show_icons=true&theme=radical&bg_color=DEG,DD5744,834687&title_color=ffffff&text_color=ffffff)](https://github.com/guojunliu)
-[![trophy](https://github-profile-trophy.vercel.app/?username=guojunliu&column=3)](https://github.com/guojunliu)
+[![trophy](https://github-profile-trophy.vercel.app/?username=guojunliu&column=3&row=2&margin-w=15)](https://github.com/guojunliu)
 
 
 ### Stargazers over time
